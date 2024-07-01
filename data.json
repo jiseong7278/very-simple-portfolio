@@ -29,7 +29,7 @@
     {
       "id": 1,
       "name": "팀 프로젝트\nKidlet",
-      "description": "학급 홈페이지 모바일 어플리케이션",
+      "description": "학급 홈페이지 모바일 어플리케이션\nhttps://play.google.com/store/apps/details?id=com.kumoh.kidlet&pcampaignid=web_share",
       "webUrl": "https://play.google.com/store/apps/details?id=com.kumoh.kidlet&pcampaignid=web_share",
       "repoUrl": "https://github.com/kitcse2018/Kidlet",
       "isTeam": true,
