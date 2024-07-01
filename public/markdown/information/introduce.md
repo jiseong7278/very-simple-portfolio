@@ -10,7 +10,7 @@ Back-end
 ----
 - **Java**
 - **Spring** Framework
-- **Python**
+- **Python**(진행 중)
 - **FastAPI**(진행 중)
 
 Database
