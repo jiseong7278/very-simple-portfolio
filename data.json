@@ -39,7 +39,7 @@
     {
       "id": 2,
       "name": "개인 프로젝트\nClickit 2",
-      "description": "Clickit(첫번째 팀 프로젝트)의 부족한 부분을 보완한 시스템(Back-end)",
+      "description": "Clickit(첫번째 팀 프로젝트)의 부족한 부분을 보완한 시스템(Back-end)\n(현재 서버 비용 문제로 AWS EC2 인스턴스 일시 중단)",
       "repoUrl": "https://github.com/jiseong7278/Clickit2",
       "isTeam": false,
       "period": ["2024. 02", "2024. 05"],
